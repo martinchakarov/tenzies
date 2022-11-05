@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #0B2434;
+  display: flex;
+  justify-content: center;
+}
+
+.app {
+  margin-top: 20vh;
+  height: 60vh;
+  width: 60vw;
+  background: #F5F5F5;
+  border-radius: 10px;
+}
+
