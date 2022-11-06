@@ -31,7 +31,6 @@ export default function App() {
 
     if (heldCondition && valueCondition) {
       setTenzies(true);
-      console.log('You have won the game!')
     } 
 
   }, [diceValues])
